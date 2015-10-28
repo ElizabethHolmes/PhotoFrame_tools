@@ -20,4 +20,4 @@ To modify photos in the directory 'Images', the command would be:
     java -jar PhotoFramePhotoModifier.jar Images
   
 ## Output
-PhotoFrameModifier generates a directory named 'Output images' containing modified versions of all the images in the directory specified as an input paramater. An example of what the images with title look like is shown in the file '2015 - Mountain biking holiday.jpg'.
+PhotoFrameModifier generates a directory named 'Output images' containing modified versions of all the images in the directory specified as an input parameter. An example of what the images with title look like is shown in the file '2015 - Mountain biking holiday.jpg'.
