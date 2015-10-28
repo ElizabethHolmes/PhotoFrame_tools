@@ -9,15 +9,15 @@ PhotoFramePhotoModifier requires a Java Runtime Environment.
 
 ## Usage
 PhotoFrameModifier takes as its input a directory containing images in sub-directories. The directory structure should be as follows:
-Level 1 - Directory used as input
-Level 2 - Directories named by date (e.g. '2015'), or other specifier
-Level 3 - Directories named by another specifier (e.g. 'Mountain biking holiday')
-Level 4 - Images
+- Level 1 - Directory used as input
+- Level 2 - Directories named by date (e.g. '2015'), or other specifier
+- Level 3 - Directories named by another specifier (e.g. 'Mountain biking holiday')
+- Level 4 - Images
 
 ## Example
 To modify photos in the directory 'Images', the command would be:
 
-  java -jar PhotoFramePhotoModifier.jar Images
+    java -jar PhotoFramePhotoModifier.jar Images
   
 ## Output
 PhotoFrameModifier generates a directory named 'Output images' containing modified versions of all the images in the directory specified as an input paramater. An example of what the images with title look like is shown in the file '2015 - Mountain biking holiday.jpg'.
