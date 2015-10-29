@@ -2,8 +2,6 @@
 ## About
 PhotoFramePhotoModifier is a Java program for editing images to display in a digital photo frame. It crops the images if necessary so that their aspect ratio is 4:3, resizes them to a resolution of 800 x 600 for lanscape images and 450 x 600 for portrait images, and adds a title comprised of a date (or other user-defined specifier) and a name.
 
-** PLEASE NOTE: PhotoFramePhotoModifier is one of my first Java programs written as a beginner Java programmer and so I apologise if the code is inelegant, unconventional or otherwise sub-optimal; it works for the intended purpose and I provide it in case it might be useful to others, but with no guarantees. **
-
 ## Requirements
 PhotoFramePhotoModifier requires a Java Runtime Environment.
 
